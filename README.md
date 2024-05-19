@@ -18,5 +18,5 @@ Data Analysis : I started analyzing dataset using Pandas,Numpy,Matplotlib and Se
 
 Data Visualization : Plotted graphs to get insights about dependent and independent variables
 
-Technologies Used
+# Technologies Used
 1.Jupyter notebook 2. Python 3. Sklearn 4. Pandas 5. Scipy 6. Numpy 7. Seaborn 8. Matplotlib 9. Power BI
